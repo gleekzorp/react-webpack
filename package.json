@@ -1,7 +1,7 @@
 {
   "name": "base-webpack",
   "version": "1.0.0",
-  "description": "Simple webpack for creating a server to render html-css-js",
+  "description": "Simple webpack server for rendering a react.js project with hot reloading",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config=webpack.config.prod.js",
