@@ -7,10 +7,6 @@ Webpack:
 - https://webpack.js.org/
 
 > TODO:
-- components
-  - class
-  - functional
-- hooks
 - context
 - router
 
